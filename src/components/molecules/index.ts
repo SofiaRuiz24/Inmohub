@@ -5,3 +5,4 @@ export { FormField } from "./FormField";
 export { NewsletterForm } from "./NewsletterForm";
 export { StepCard } from "./StepCard";
 export { PropertyCard } from "./PropertyCard";
+export { AuthInput } from "./AuthInput";

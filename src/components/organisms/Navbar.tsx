@@ -1,10 +1,12 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
+import { useNavigate } from "react-router-dom";
 import { Logo, Button, Icon, LanguageSwitcher } from "../atoms";
 import { NavItem } from "../molecules";
 
 export const Navbar: React.FC = () => {
   const { t } = useTranslation();
+  const navigate = useNavigate();
 
   return (
     <nav className="sticky top-0 left-0 right-0 z-50 px-6 py-4 bg-gray-900/95 backdrop-blur-sm">
@@ -23,10 +25,17 @@ export const Navbar: React.FC = () => {
 
         <div className="flex items-center gap-3">
           <LanguageSwitcher />
-          <button className="w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition-colors">
+          <button
+            onClick={() => navigate("/login")}
+            className="w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition-colors"
+          >
             <Icon name="user" size={20} className="text-white" />
           </button>
-          <Button variant="primary" size="md">
+          <Button
+            variant="primary"
+            size="md"
+            onClick={() => navigate("/signup")}
+          >
             {t("navbar.signup")}
           </Button>
         </div>

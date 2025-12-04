@@ -13,3 +13,4 @@ export { Badge } from "./Badge";
 export { FavoriteButton } from "./FavoriteButton";
 export { IconWithText } from "./IconWithText";
 export { RangeSlider } from "./RangeSlider";
+export { Checkbox } from "./Checkbox";

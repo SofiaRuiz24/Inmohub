@@ -138,5 +138,33 @@
     "baths": "Baños",
     "price": "Precio",
     "rating": "Calificación"
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar Sesión",
+      "emailLabel": "Correo Electrónico:",
+      "emailPlaceholder": "nombre@ejemplo.com",
+      "passwordLabel": "Contraseña:",
+      "passwordPlaceholder": "Contraseña:",
+      "rememberMe": "Recordarme",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "button": "Iniciar Sesión",
+      "noAccount": "¿No tienes una cuenta?",
+      "signUpLink": "Regístrate"
+    },
+    "signup": {
+      "title": "Registro",
+      "nameLabel": "Tu Nombre:",
+      "namePlaceholder": "Harry",
+      "emailLabel": "Correo Electrónico:",
+      "emailPlaceholder": "nombre@ejemplo.com",
+      "passwordLabel": "Contraseña:",
+      "passwordPlaceholder": "Contraseña:",
+      "acceptTerms": "Acepto los",
+      "termsLink": "Términos y Condiciones",
+      "button": "Registrarse",
+      "hasAccount": "¿Ya tienes una cuenta?",
+      "signInLink": "Inicia Sesión"
+    }
   }
 }

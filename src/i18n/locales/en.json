@@ -138,5 +138,33 @@
     "baths": "Baths",
     "price": "Price",
     "rating": "Rating"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "emailLabel": "Email Address:",
+      "emailPlaceholder": "name@example.com",
+      "passwordLabel": "Password:",
+      "passwordPlaceholder": "Password:",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password ?",
+      "button": "Login / Sign in",
+      "noAccount": "Don't have an account ?",
+      "signUpLink": "Sign Up"
+    },
+    "signup": {
+      "title": "Signup",
+      "nameLabel": "Your Name:",
+      "namePlaceholder": "Harry",
+      "emailLabel": "Email Address:",
+      "emailPlaceholder": "name@example.com",
+      "passwordLabel": "Password:",
+      "passwordPlaceholder": "Password:",
+      "acceptTerms": "I Accept",
+      "termsLink": "Terms And Condition",
+      "button": "Register",
+      "hasAccount": "Already have an account ?",
+      "signInLink": "Sign in"
+    }
   }
 }

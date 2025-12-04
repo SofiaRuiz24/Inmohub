@@ -1,5 +1,11 @@
 import { Routes, Route } from "react-router-dom";
-import { HomePage, AboutPage, SearchPage } from "./pages";
+import {
+  HomePage,
+  AboutPage,
+  SearchPage,
+  LoginPage,
+  SignupPage,
+} from "./pages";
 
 function App() {
   return (
@@ -7,6 +13,8 @@ function App() {
       <Route path="/" element={<HomePage />} />
       <Route path="/about" element={<AboutPage />} />
       <Route path="/search" element={<SearchPage />} />
+      <Route path="/login" element={<LoginPage />} />
+      <Route path="/signup" element={<SignupPage />} />
       <Route path="/buy" element={<div>Buy Page</div>} />
       <Route path="/sell" element={<div>Sell Page</div>} />
       <Route path="/listing" element={<div>Listing Page</div>} />
