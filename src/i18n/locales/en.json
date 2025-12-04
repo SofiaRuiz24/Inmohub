@@ -1,0 +1,142 @@
+{
+  "navbar": {
+    "home": "Home",
+    "buy": "Buy",
+    "sell": "Sell",
+    "listing": "Listing",
+    "pages": "Pages",
+    "contact": "Contact",
+    "signup": "Signup",
+    "about": "About Us"
+  },
+  "hero": {
+    "title": "Discover Your",
+    "titleHighlight": "Dream Home",
+    "description": "A great platform to buy, sell and rent your properties without any agent or commissions.",
+    "exploreMore": "Explore More",
+    "contactUs": "Contact Us"
+  },
+  "searchCard": {
+    "tabs": {
+      "buy": "Buy",
+      "sell": "Sell",
+      "rent": "Rent"
+    },
+    "search": "Search",
+    "searchPlaceholder": "Search your keywords",
+    "selectCategories": "Select Categories",
+    "selectCategoriesPlaceholder": "Select...",
+    "minPrice": "Min Price",
+    "minPricePlaceholder": "Select...",
+    "searchButton": "Search",
+    "required": "*",
+    "categories": {
+      "houses": "Houses",
+      "apartments": "Apartments",
+      "villas": "Villas",
+      "commercial": "Commercial",
+      "offices": "Offices"
+    },
+    "prices": {
+      "10k": "$10,000",
+      "50k": "$50,000",
+      "100k": "$100,000",
+      "500k": "$500,000",
+      "1m": "$1,000,000"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "efficiency": {
+      "title": "Efficiency. Transparency. Control.",
+      "description": "INMOHUB developed a platform for the Real Estate marketplace that allows buyers and sellers to easily execute a transaction on their own. The platform drives efficiency, cost transparency and control into the hands of the consumers. INMOHUB is Real Estate Redefined.",
+      "learnMore": "Learn More"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "A great platform to buy, sell and rent your properties without any agent or commissions.",
+      "steps": {
+        "evaluate": {
+          "title": "Evaluate Property",
+          "description": "If the distribution of letters and words is random, the reader will not be distracted from making."
+        },
+        "meeting": {
+          "title": "Meeting with Agent",
+          "description": "If the distribution of letters and words is random, the reader will not be distracted from making."
+        },
+        "close": {
+          "title": "Close the Deal",
+          "description": "If the distribution of letters and words is random, the reader will not be distracted from making."
+        }
+      }
+    },
+    "stats": {
+      "properties": "Properties Sell",
+      "awards": "Award Gained",
+      "years": "Years Experience"
+    },
+    "team": {
+      "title": "Meet The Agent Team",
+      "subtitle": "A great platform to buy, sell and rent your properties without any agent or commissions.",
+      "role": "Designer"
+    },
+    "testimonials": {
+      "title": "What Our Client Say ?",
+      "subtitle": "A great platform to buy, sell and rent your properties without any agent or commissions.",
+      "role": "Manager"
+    },
+    "contact": {
+      "title": "Have Question ? Get in touch!",
+      "subtitle": "A great platform to buy, sell and rent your properties without any agent or commissions.",
+      "button": "Contact us"
+    },
+    "newsletter": {
+      "title": "Subscribe to Newsletter!",
+      "subtitle": "Subscribe to get latest updates and information.",
+      "placeholder": "Enter your email :",
+      "button": "Subscribe"
+    }
+  },
+  "footer": {
+    "description": "A great platform to buy, sell and rent your properties without any agent or commisions.",
+    "company": {
+      "title": "Company",
+      "aboutUs": "About us",
+      "services": "Services",
+      "pricing": "Pricing",
+      "blog": "Blog",
+      "login": "Login"
+    },
+    "usefulLinks": {
+      "title": "Usefull Links",
+      "terms": "Terms of Services",
+      "privacy": "Privacy Policy",
+      "listing": "Listing",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact Details",
+      "address": "C/54 Northwest Freeway, Suite 558, Houston, USA 485",
+      "viewMap": "View on Google map"
+    },
+    "copyright": "Design & Develop",
+    "by": "by Sofia Dev"
+  },
+  "listings": {
+    "title": "Grid View Layout",
+    "heroTitle": "Your Search Results",
+    "search": "Search :",
+    "searchPlaceholder": "Search your keywords",
+    "selectCategories": "Select Categories:",
+    "priceRange": "Price Range :",
+    "minPrice": "Min Price :",
+    "maxPrice": "Max Price :",
+    "selectPlaceholder": "Select...",
+    "searchButton": "Search",
+    "sqft": "sqft",
+    "beds": "Beds",
+    "baths": "Baths",
+    "price": "Price",
+    "rating": "Rating"
+  }
+}

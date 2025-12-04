@@ -1,0 +1,142 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "buy": "Comprar",
+    "sell": "Vender",
+    "listing": "Listados",
+    "pages": "Páginas",
+    "contact": "Contacto",
+    "signup": "Registrarse",
+    "about": "Sobre Nosotros"
+  },
+  "hero": {
+    "title": "Descubre Tu",
+    "titleHighlight": "Casa Ideal",
+    "description": "Una gran plataforma para comprar, vender y alquilar tus propiedades sin ningún agente o comisiones.",
+    "exploreMore": "Explorar Más",
+    "contactUs": "Contáctanos"
+  },
+  "searchCard": {
+    "tabs": {
+      "buy": "Comprar",
+      "sell": "Vender",
+      "rent": "Alquilar"
+    },
+    "search": "Buscar",
+    "searchPlaceholder": "Busca tus palabras clave",
+    "selectCategories": "Seleccionar Categorías",
+    "selectCategoriesPlaceholder": "Seleccionar...",
+    "minPrice": "Precio Mínimo",
+    "minPricePlaceholder": "Seleccionar...",
+    "searchButton": "Buscar",
+    "required": "*",
+    "categories": {
+      "houses": "Casas",
+      "apartments": "Apartamentos",
+      "villas": "Villas",
+      "commercial": "Comercial",
+      "offices": "Oficinas"
+    },
+    "prices": {
+      "10k": "$10,000",
+      "50k": "$50,000",
+      "100k": "$100,000",
+      "500k": "$500,000",
+      "1m": "$1,000,000"
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "efficiency": {
+      "title": "Eficiencia. Transparencia. Control.",
+      "description": "INMOHUB desarrolló una plataforma para el mercado inmobiliario que permite a compradores y vendedores ejecutar fácilmente una transacción por su cuenta. La plataforma impulsa la eficiencia, la transparencia de costos y el control en manos de los consumidores. INMOHUB es Bienes Raíces Redefinidos.",
+      "learnMore": "Conocer Más"
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "subtitle": "Una gran plataforma para comprar, vender y alquilar tus propiedades sin ningún agente o comisiones.",
+      "steps": {
+        "evaluate": {
+          "title": "Evaluar Propiedad",
+          "description": "Si la distribución de letras y palabras es aleatoria, el lector no se distraerá al leer."
+        },
+        "meeting": {
+          "title": "Reunión con Agente",
+          "description": "Si la distribución de letras y palabras es aleatoria, el lector no se distraerá al leer."
+        },
+        "close": {
+          "title": "Cerrar el Trato",
+          "description": "Si la distribución de letras y palabras es aleatoria, el lector no se distraerá al leer."
+        }
+      }
+    },
+    "stats": {
+      "properties": "Propiedades Vendidas",
+      "awards": "Premios Ganados",
+      "years": "Años de Experiencia"
+    },
+    "team": {
+      "title": "Conoce al Equipo de Agentes",
+      "subtitle": "Una gran plataforma para comprar, vender y alquilar tus propiedades sin ningún agente o comisiones.",
+      "role": "Diseñador"
+    },
+    "testimonials": {
+      "title": "¿Qué Dicen Nuestros Clientes?",
+      "subtitle": "Una gran plataforma para comprar, vender y alquilar tus propiedades sin ningún agente o comisiones.",
+      "role": "Manager"
+    },
+    "contact": {
+      "title": "¿Tienes Preguntas? ¡Contáctanos!",
+      "subtitle": "Una gran plataforma para comprar, vender y alquilar tus propiedades sin ningún agente o comisiones.",
+      "button": "Contáctanos"
+    },
+    "newsletter": {
+      "title": "¡Suscríbete al Boletín!",
+      "subtitle": "Suscríbete para recibir las últimas actualizaciones e información.",
+      "placeholder": "Ingresa tu email :",
+      "button": "Suscribirse"
+    }
+  },
+  "footer": {
+    "description": "Una gran plataforma para comprar, vender y alquilar tus propiedades sin ningún agente o comisiones.",
+    "company": {
+      "title": "Compañía",
+      "aboutUs": "Sobre nosotros",
+      "services": "Servicios",
+      "pricing": "Precios",
+      "blog": "Blog",
+      "login": "Ingresar"
+    },
+    "usefulLinks": {
+      "title": "Enlaces Útiles",
+      "terms": "Términos de Servicio",
+      "privacy": "Política de Privacidad",
+      "listing": "Listados",
+      "contact": "Contacto"
+    },
+    "contact": {
+      "title": "Detalles de Contacto",
+      "address": "C/54 Northwest Freeway, Suite 558, Houston, USA 485",
+      "viewMap": "Ver en Google Maps"
+    },
+    "copyright": "Diseñado y Desarrollado ",
+    "by": "por Sofia Dev"
+  },
+  "listings": {
+    "title": "Diseño de Vista en Cuadrícula",
+    "heroTitle": "Resultados de tu Búsqueda",
+    "search": "Buscar :",
+    "searchPlaceholder": "Busca tus palabras clave",
+    "selectCategories": "Seleccionar Categorías:",
+    "priceRange": "Rango de Precio :",
+    "minPrice": "Precio Mínimo :",
+    "maxPrice": "Precio Máximo :",
+    "selectPlaceholder": "Seleccionar...",
+    "searchButton": "Buscar",
+    "sqft": "pies²",
+    "beds": "Habitaciones",
+    "baths": "Baños",
+    "price": "Precio",
+    "rating": "Calificación"
+  }
+}
