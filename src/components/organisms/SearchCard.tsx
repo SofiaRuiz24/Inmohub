@@ -39,11 +39,11 @@ export const SearchCard: React.FC = () => {
             isActive={activeTab === "buy"}
             onClick={() => setActiveTab("buy")}
           />
-          <TabButton
+          {/*<TabButton
             label={t("searchCard.tabs.sell")}
             isActive={activeTab === "sell"}
             onClick={() => setActiveTab("sell")}
-          />
+          />*/}
           <TabButton
             label={t("searchCard.tabs.rent")}
             isActive={activeTab === "rent"}
@@ -55,7 +55,7 @@ export const SearchCard: React.FC = () => {
         <div className="p-6 space-y-4">
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-2">
-              {t("searchCard.search")} :{" "}
+              {t("searchCard.search")}
               <span className="text-red-500">{t("searchCard.required")}</span>
             </label>
             <SearchInput

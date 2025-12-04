@@ -43,7 +43,7 @@ export const Dropdown: React.FC<DropdownProps> = ({
       </button>
 
       {isOpen && options.length > 0 && (
-        <div className="absolute z-10 w-full mt-2 bg-white border border-gray-200 rounded-lg shadow-lg max-h-60 overflow-y-auto">
+        <div className="absolute z-50 w-full mt-2 bg-white border border-gray-200 rounded-lg shadow-lg max-h-60 overflow-y-auto py-1">
           {options.map((option, index) => (
             <button
               key={index}
@@ -54,7 +54,7 @@ export const Dropdown: React.FC<DropdownProps> = ({
                 onChange?.(option);
                 setIsOpen(false);
               }}
-              className="w-full px-4 py-2 text-left hover:bg-gray-50 first:rounded-t-lg last:rounded-b-lg"
+              className="w-full px-4 py-3 text-left text-gray-900 hover:bg-green-50 hover:text-green-600 transition-all duration-200 block"
             >
               {option}
             </button>

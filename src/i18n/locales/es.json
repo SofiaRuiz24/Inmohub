@@ -22,11 +22,11 @@
       "sell": "Vender",
       "rent": "Alquilar"
     },
-    "search": "Buscar",
+    "search": "Buscar ",
     "searchPlaceholder": "Busca tus palabras clave",
     "selectCategories": "Seleccionar Categorías",
     "selectCategoriesPlaceholder": "Seleccionar...",
-    "minPrice": "Precio Mínimo",
+    "minPrice": "Rango de Precio",
     "minPricePlaceholder": "Seleccionar...",
     "searchButton": "Buscar",
     "required": "*",
